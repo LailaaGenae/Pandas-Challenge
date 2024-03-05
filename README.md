@@ -3,7 +3,7 @@
 ## Objective:
 aggregate data to showcase obvious trends in school performance by analyzing test results from different schools in a district to help with future budgets & priorties. 
 
-##Analysis
+## Analysis
 - Schools with the lowest budget per student had the highest test score while higher budget schools had lower test scores
 - Charter Schools had highestest overall passing rates, while District schools had lower overall passing rates.
 - Schools with the most student largely had lower test scores.
